@@ -1,0 +1,46 @@
+{
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "extensions.autoUpdate": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "Dracula",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  // enable per-language (here: Prettier as formatter)
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.untitled.hint": "hidden",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.formatOnSave": true,
+  "html.format.unformatted": "",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "kite.showWelcomeNotificationOnStartup": false,
+  "update.enableWindowsBackgroundUpdates": false,
+  "git.ignoreMissingGitWarning": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.zoomLevel": -2,
+  "workbench.colorCustomizations": {
+    
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.wordWrap": "on" 
+}
